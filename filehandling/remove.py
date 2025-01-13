@@ -1,6 +1,6 @@
 import os
 
-path = "write1.txt"
+path = "write2.txt"
 if os.path.exists(path):
     os.remove(path)
     print("File Deleted :)\n")
