@@ -70,7 +70,7 @@ def expense_cal(expenses:list[float])-> float:
 print(help(expense_cal))
 
 ram_expenses = [10, 15 , 20 , 35]
-jam_expenses = [17, 35 , 28 , 15]
+jam_expenses = [12, 35 , 28 , 15]
 
 
 
