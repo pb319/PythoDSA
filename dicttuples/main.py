@@ -86,7 +86,7 @@ total_jam = 0
 for expense in jam_expenses:
         total_jam = total_jam + expense
 
-print(f'Total Expense of Jam:{total_jam}')
+print(f'Total Expense of Jam:{total_jam}') #Okay
 
 # Comment Added
 
