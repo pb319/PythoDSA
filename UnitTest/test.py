@@ -26,7 +26,7 @@ class TestCalc(unittest.TestCase):
             # res = calc.multipy(10,5)
             self.assertEqual(calc.divide(10,5),2)
             self.assertEqual(calc.divide(-1,1),-1)
-            self.assertEqual(calc.divide(-4,-2),2)
+            self.assertEqual(calc.divide(-4,2),-8)
 
 
 
