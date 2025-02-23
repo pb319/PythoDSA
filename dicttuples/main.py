@@ -84,7 +84,7 @@ print(f'Total Expense of Ram:{total_ram}')
 
 total_jam = 0
 for expense in jam_expenses:
-        total_jam = total_jam + expense
+        total_jam1 = total_jam1 + expense
 
 print(f'Total Expense of Jam:{total_jam}') #Okay
 
